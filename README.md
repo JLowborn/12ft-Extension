@@ -1,4 +1,6 @@
-# 12ft Extension
+# 12 Foot Ladder Extension
+
+![image](https://user-images.githubusercontent.com/64245567/221305154-75621ca7-f1f9-447d-b407-4ff70b9e9889.png)
 
 This is a simple browser extension that allows you to bypass paywalls using 12ft proxy. This works by loading a cached version of the page from Google, since websites doesn't show a paywall to any crawler. The extension is available for both Chrome and Firefox.
 
